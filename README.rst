@@ -30,6 +30,10 @@ wechat-python-sdk 希望能帮你解决微信公众平台开发中的种种不�
 
     pip install wechat-sdk
 
+::
+
+    OSX EI Capitan: sudo pip install wechat-sdk --ignore-installed six
+
 也可以通过 easy_install 进行安装
 
 ::
